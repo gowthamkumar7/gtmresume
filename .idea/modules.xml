@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GowthamResume.iml" filepath="$PROJECT_DIR$/GowthamResume.iml" />
+      <module fileurl="file://C:\Users\sampa\Documents\GitHub\Build\gtmresume\GowthamResume.iml" filepath="C:\Users\sampa\Documents\GitHub\Build\gtmresume\GowthamResume.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sampa\Documents\GitHub\Build\gtmresume\app\app.iml" filepath="C:\Users\sampa\Documents\GitHub\Build\gtmresume\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gtmresume.iml" filepath="$PROJECT_DIR$/.idea/gtmresume.iml" />
     </modules>
   </component>
 </project>
